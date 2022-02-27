@@ -1,5 +1,5 @@
-# hostingwebpage_frontend
-front end for hosting webpage 
+# hosting_webpage
+front end for responsive hosting webpage 
 ## Tech Description:
 HtML,Css,js,jquery,bootstrap
 ## link for website
